@@ -11,8 +11,11 @@ Proyecto Final del laboratorio
 Proyecto Final de Teoría
 
 
-Para el proyecto final del laboratorio no planeo integrar a nadie ya que se vueleve difícil de mantener el código y organizar a las personas.
+- Para el **proyecto final del laboratorio** no planeo integrar a nadie ya que se vueleve difícil de mantener el código y organizar a las personas.
 
-Para el proyecto final de la teoría se integrará a otro compañero:
--
+- Para el **proyecto final de la teoría** se integrará a otro compañero:
+
 - Carlos Alberto Basilio Torres
+
+https://github.com/CarlosBasilioTorres
+
