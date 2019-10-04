@@ -1,38 +1,33 @@
 # Laboratorio Computación Gráfica 2020-1
-Código y recursos desarrollados para el proyecto final del laboratorio de computación gráfica 2020-1
+Código y recursos desarrollados para el proyecto final de **Teoría** de **computación gráfica** para el semestre **2020-1**.
 
-Proyecto para el Ing. Luis Sergio Valencia Castro 
+Proyecto para el Ing. 
 ## Integrantes del proyecto:
 
 - Luis Ernesto Ochoa Ríos  [GitHub - Leor8a](https://github.com/Leor8a)
 - Carlos Alberto Basilio Torres [GitHub - CarlosBasilioTorres](https://github.com/CarlosBasilioTorres)
 
-## Descripción del proyecto:
+## Descripción del proyecto detallado:
 
 El proyecto se estructurará en las siguientes carpetas:
-
-- Proyecto final:
-Proyecto Final del laboratorio
-
 
 ```bash
 //TO DO: Modificación de estructura de carpetas...
 
-Teoría
+Computacion_Grafica_2020-1
 │  
-├── Proyecto final
-│   ├── blabla.ico
-│   ├── images
+├── Teoría
+│   ├── Miniprog
+│   ├── #########
 │   ├── Mac
-│   │   ├── README.md
+│   │   ├── #########
 │   │   ├── README.md
 │   ├── Windows
+│   │   ├── #########
 │   │   ├── README.md
-│   └── README.md
-├── node_modules
-├── bower_components (if using bower)
-├── test
-└── README.md ** (Éste es el archivo que se estás leyendo)
+│   ├── DESARROLLO.md Leer para más detalles del desarrollo del proyecto.
+│   └── README.md ** (Éste es el archivo que se estás leyendo)
+└── README.md 
 
 ```
 

@@ -1,5 +1,9 @@
 # Computación Gráfica 2020-1
-Código y recursos desarrollados para la materia de **Computación gráfica** para el semestre **2020-1**
+
+ Repositorio de **Computación gráfica** para el semestre **2020-1**
+
+En este repositorio se encuentran 2 proyectos finales, el de Teoría y el de Laboratorio.
+
 
 Resumen de la estructura de proyectos:
 -
@@ -9,25 +13,25 @@ Resumen de la estructura de proyectos:
 
 ├── Laboratorio  - Carpeta para proyecto final de laboratorio.
 │   ├── Miniprog - Carpeta que tiene Mini-Programas que sirvieron para la construcción del proyecto final.
-│   ├── images
+│   ├── ###########
 │   ├── Mac
-│   │   ├── README.md
-│   │   ├── README.md
-│   │   └── 
+│   │   ├── #########
+│   │   ├── #########
+│   │   └── README.md
 │   ├── Windows
-│   │   ├── README.md
-│   │   └── 
+│   │   ├── #########
+│   │   └── README.md
 │   └── DESARROLLO.md - Es un archivo que describe el avance del proyecto y las dificultades del mismo. 
 │   └── README.md -- Leer archivo ya que contiene los lineamientos del proyecto final.
 ├── Teoría - Carpeta para proyecto final de la teoría.
 │   ├── Miniprog - Carpeta que tiene Mini-Programas que sirvieron para la construcción del proyecto final.
-│   ├── images
+│   ├── #########
 │   ├── Mac
-│   │   ├── archivos.*
-│   │   └── 
+│   │   ├── #########
+│   │   └── README.md
 │   ├── Windows
-│   │   ├── archivos*
-│   │   └── 
+│   │   ├── #########
+│   │   └── README.md
 │   └── DESARROLLO.md - Es un archivo que describe el avance del proyecto y las dificultades del mismo. 
 │   └── README.md -- Leer archivo ya que contiene los lineamientos del proyecto final.
 ├── README.md **(Archivo que ahora observas)
@@ -35,12 +39,5 @@ Resumen de la estructura de proyectos:
 ```
 
 
-- Para el **proyecto final del laboratorio** no planeo integrar a nadie ya que se vuelve difícil de mantener el código y organizar a las personas.
-
-- Para el **proyecto final de la teoría** se integrará a otro compañero:
-
-
-
-	
 	
 

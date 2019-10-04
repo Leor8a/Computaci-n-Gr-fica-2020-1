@@ -14,20 +14,19 @@ El proyecto se estructurará en las siguientes carpetas:
 ```bash
 //TO DO: Modificación de estructura de carpetas...
 
-Laboratorio
+Computacion_Grafica_2020-1
 │  
-├── Proyecto final
-│   ├── blabla.ico
+├── Laboratorio
+│   ├── Miniprog
 │   ├── images
 │   ├── Mac
-│   │   ├── README.md
-│   │   ├── README.md
+│   │   ├── ##########
+│   │   ├── ##########
 │   ├── Windows
-│   │   ├── README.md
-│   └── README.md
-├── bower_components (if using bower)
-├── test
-└── README.md ** (Éste es el archivo que se estás leyendo)
+│   │   ├── ##########
+│   ├── DESARROLLO.md - Leer para más detalles del desarrollo del proyecto.
+│   └── README.md ** (Éste es el archivo que se estás leyendo)
+└── README.md 
 
 ```
 
