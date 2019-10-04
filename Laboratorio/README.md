@@ -5,7 +5,7 @@ Proyecto para el **Ing. Luis Sergio Valencia Castro**
 
 ## Integrantes del proyecto:
 
-- Luis Ernesto Ochoa Ríos  **(Leor8a)**
+- Luis Ernesto Ochoa Ríos  	[(Leor8a)](https://github.com/Leor8a)
 
 
 El proyecto se estructurará en las siguientes carpetas:
@@ -47,9 +47,9 @@ b) Construcción de la fachada y de la parte exterior de la casa. Considerando q
 
 **PROHIBIDO** ocupar las animaciones creadas durante las sesiones de laboratorio.
 
-d) Incorporará una biblioteca de audio para agregar música de fondo, por lo que el alumno deberá investigar una biblioteca compatible con OpenGL y GLUT.
+d) Incorporará una biblioteca de audio para agregar música de fondo, por lo que el alumno deberá investigar una biblioteca compatible con OpenGL y GLUT.  **(La herramienta que se utilizará será irrKlang para la carga de audio en el proyecto.)**
 
-e) Junto con los archivos de código, modelos, texturas y de audio, que el alumno utilizó para crear el escenario, entregará un manual de uso de la aplicación.
+e) Junto con los archivos de código, modelos, texturas y de audio, que el alumno utilizó para crear el escenario, entregará un manual de uso de la aplicación. 
 
 f) Se deberá navegar el escenario mediante una implementación de la cámara sintética.
 

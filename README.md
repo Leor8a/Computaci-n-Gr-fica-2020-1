@@ -1,13 +1,13 @@
 # Computación Gráfica 2020-1
 Código y recursos desarrollados para la materia de **Computación gráfica** para el semestre **2020-1**
 
-Resumen de árbol de la estructura de proyectos:
+Resumen de la estructura de proyectos:
 -
 
 ```bash
 //TO DO: Modificación de estructura de carpetas...
 
-├── Laboratorio  - Carpeta para proyecto final de lab.
+├── Laboratorio  - Carpeta para proyecto final de laboratorio.
 │   ├── Miniprog - Carpeta que tiene Mini-Programas que sirvieron para la construcción del proyecto final.
 │   ├── images
 │   ├── Mac
@@ -40,9 +40,7 @@ Resumen de árbol de la estructura de proyectos:
 - Para el **proyecto final de la teoría** se integrará a otro compañero:
 
 
-- Carlos Alberto Basilio Torres
 
-	[GitHub - CarlosBasilioTorres](https://github.com/CarlosBasilioTorres)
 	
 	
 
