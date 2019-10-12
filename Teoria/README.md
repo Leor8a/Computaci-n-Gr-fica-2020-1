@@ -6,7 +6,7 @@ Proyecto para el Ing.
 
 - Luis Ernesto Ochoa Ríos  [GitHub - Leor8a](https://github.com/Leor8a)
 
-Pues si, aunque no lo quize pero las circunstancias lo dictan, un proyecto de un "One orchestra man"
+Pues si, aunque no lo quize pero las circunstancias lo dictan, un proyecto de un **One orchestra man**
 
 ## Descripción del proyecto detallado:
 
@@ -27,22 +27,27 @@ Computacion_Grafica_2020-1
 │   │   ├── #########
 │   │   ├── README.md
 │   ├── DESARROLLO.md Leer para más detalles del desarrollo del proyecto.
-│   └── README.md ** (Éste es el archivo que se estás leyendo)
+│   └── README.md ** (Éste es el archivo que estás leyendo)
 └── README.md 
 
 ```
 
 ## Lineamientos:
 
-Descripción general del proyecto de teoría y algunos lineamientos:
+**Descripción general del proyecto** y algunos lineamientos:
 
 El alumno, presentará como proyecto final, un escenario tridimensional, el cual consistirá principalmente en:
 
-1) Un circo:
+1) Un **circo**:
 
-a) El alumno propondrá el espacio interior a representar. Considerando que se debe contar con al menos 3 áreas de esparcimiento, se determinará cuáles son éstas en un futuro. 
+a) Se deberá realizar un recorrido virtual de un circo donde se incluirán elementos generados por cada alumno en específico. Además de una ambientación tridimensional para simular lo mejor posible el ambiente virtual.
 
 Para todos los elementos, el alumno utilizará las técnicas de modelado geométrico, modelado jerárquico y texturizado para construir los elementos con base a primitivas.
+
+(Se deberá realizar el ambiente virtual lo más completo posible tanto al interior como al exterior, colocando diversos elementos como: Carpa, gradas, personas, actos, ambientación, etc.)
+
+ Especificaciones:
+-
 
 b) El alumno agregará dos modos de vista en el programa, Un modo de noche y un modo de día; en cada uno de ellos la iluminación variará y sobretodo los cielos también cambiarán.
 
@@ -60,12 +65,11 @@ El alumno puede agregar elementos para formar un escenario más grande y complej
  Participantes:
 -
 
-Podrán formar equipos hasta de **2 personas**.
-
+Podrán formar equipos hasta de **2 personas** o se puede realizar de manera individual.(Ya se redujo a una persona)
 
 Es responsabilidad del alumno la selección de integrantes del equipo, por lo que las acciones de alguno de los miembros del equipo repercute en todos los integrantes.
 
-Cualquier uso no autorizado de proyectos de semestres anteriores, o contenido generado por otro equipo llevará a, dependiendo la gravedad de la falta, una calificación de cero en el rubro de proyecto o a tener una calificación reprobatoria en la materia.
+Cualquier uso no autorizado de proyectos de semestres anteriores, o contenido generado por otro equipo llevará a, dependiendo la gravedad de la falta, una calificación de **cero** en el rubro de proyecto o a tener una calificación reprobatoria en la materia.
 Cualquier otro punto no previsto en este documento será tratado entre el profesor y las personas involucradas.
 
  Desarrollo de proyecto:
