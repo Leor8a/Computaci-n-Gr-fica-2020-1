@@ -5,6 +5,7 @@ Proyecto para el Ing.
 ## Integrantes del proyecto:
 
 - Luis Ernesto Ochoa Ríos  [GitHub - Leor8a](https://github.com/Leor8a)
+
 Pues si, aunque no lo quize pero las circunstancias lo dictan, un proyecto de un "One orchestra man"
 
 ## Descripción del proyecto detallado:
