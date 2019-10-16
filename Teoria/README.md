@@ -1,12 +1,13 @@
 # Laboratorio Computación Gráfica 2020-1
-Código y recursos desarrollados para el proyecto final de **Teoría** de **computación gráfica** para el semestre **2020-1**.
+Código y recursos desarrollados para el proyecto final de **Teoría** de la materia **Computación gráfica** para el semestre **2020-1**.
 
-Proyecto para el Ing. 
+Proyecto para el **Ing. Arturo Pérez de la Cruz**
+
 ## Integrantes del proyecto:
 
 - Luis Ernesto Ochoa Ríos  [GitHub - Leor8a](https://github.com/Leor8a)
 
-Pues si, aunque no lo quize pero las circunstancias lo dictan, un proyecto de un **One orchestra man**
+Pues si, aunque no lo quize pero las circunstancias lo dictan, un proyecto de un **One orchestra man**.
 
 ## Descripción del proyecto detallado:
 
@@ -51,7 +52,7 @@ a) Se deberá realizar un recorrido virtual de un circo donde se incluirán elem
 
 Para todos los elementos, el alumno utilizará las técnicas de modelado geométrico, modelado jerárquico y texturizado para construir los elementos con base a primitivas.
 
--- Se deberá realizar el ambiente virtual lo más completo posible tanto al interior como al exterior, colocando diversos elementos como: Carpa, gradas, personas, actos, ambientación, etc.
+Se deberá realizar el ambiente virtual lo más completo posible tanto al interior como al exterior, colocando diversos elementos como: Carpa, gradas, personas, actos, ambientación, etc.
 
  Especificaciones:
 -
@@ -83,7 +84,7 @@ e) Deberá contener mínimo 2 animaciones adicionales a las de los 2 actos difer
 
 f) El proyecto deberá ser entregado en una memoria entrada USB, donde se colocará el proeycto de visual studio, al menos 3 videos diferntes del proyecto funcionando y un maual de usuario. El manual de usuario deberá estar en formato .pdf y debe contener capturas de pantalla que ejemplifiquen cada elemento que describen en el manual y al final capturas de pantalla del proyecto. 
 
-**Además de la memoria el proyecto deberá estar en un repositorio exclusivo donde se evaluará cada avance que se vaya realizando en él. **
+**Además de la memoria el proyecto deberá estar en un repositorio exclusivo donde se evaluará cada avance que se vaya realizando en él.**
 
 
 g) Incorporará una biblioteca de audio para agregar música de fondo, por lo que el alumno deberá investigar una biblioteca compatible con OpenGL y GLUT. **(La herramienta que se utilizará será irrKlang para la carga de audio en el proyecto.)**
