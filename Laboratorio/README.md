@@ -40,11 +40,11 @@ El alumno, presentará como proyecto final, un escenario tridimensional, el cual
 
 a) El alumno propondrá el espacio interior a representar. Considerando que se debe contar con al menos **3 recámaras, 2 baños, sala, comedor, cocina, cochera, jardín con alberca y los muebles** de los mismos espacios. El proyecto tomará la siguiente distribución.
 
-![Cortes](https://github.com/Leor8a/Computacion_Grafica_2020-1/blob/master/Images/cortes.jpg)
-![Fachadas](https://github.com/Leor8a/Computacion_Grafica_2020-1/blob/master/Images/en_fachadas.jpg)
-![Planta Baja](https://github.com/Leor8a/Computacion_Grafica_2020-1/blob/master/Images/planta_baja.jpg)
-![Segunda Planta](https://github.com/Leor8a/Computacion_Grafica_2020-1/blob/master/Images/segunda_planta.jpg)
-![Tercera Planta](https://github.com/Leor8a/Computacion_Grafica_2020-1/blob/master/Images/tercera_planta.jpg)
+![Cortes](https://github.com/Leor8a/Computacion_Grafica_2020-1/blob/master/Laboratorio/Images/cortes.jpg)
+![Fachadas](https://github.com/Leor8a/Computacion_Grafica_2020-1/blob/master/Laboratorio/Images/en_fachadas.jpg)
+![Planta Baja](https://github.com/Leor8a/Computacion_Grafica_2020-1/blob/master/Laboratorio/Images/planta_baja.jpg)
+![Segunda Planta](https://github.com/Leor8a/Computacion_Grafica_2020-1/blob/master/Laboratorio/Images/segunda_planta.jpg)
+![Tercera Planta](https://github.com/Leor8a/Computacion_Grafica_2020-1/blob/master/Laboratorio/Images/tercera_planta.jpg)
 
 Para todos los elementos, el alumno utilizará las técnicas de modelado geométrico, modelado jerárquico y texturizado para construir los elementos con base a primitivas.
 
