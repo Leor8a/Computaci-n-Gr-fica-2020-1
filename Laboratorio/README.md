@@ -40,10 +40,10 @@ El alumno, presentará como proyecto final, un escenario tridimensional, el cual
 
 a) El alumno propondrá el espacio interior a representar. Considerando que se debe contar con al menos **3 recámaras, 2 baños, sala, comedor, cocina, cochera, jardín con alberca y los muebles** de los mismos espacios. El proyecto tomará la siguiente distribución.
 
-![Cortes](Laboratorio/Images/cortes.jpg)
-![Fachadas](Laboratorio/Images/en_fachadas.jpg)
-![Planta Baja](Laboratorio/Images/segunda_planta.jpg)
-![Tercera Planta](Laboratorio/Images/tercera_planta.jpg)
+![Cortes](Images/cortes.jpg)
+![Fachadas](Images/en_fachadas.jpg)
+![Planta Baja](Images/segunda_planta.jpg)
+![Tercera Planta](Images/tercera_planta.jpg)
 
 Para todos los elementos, el alumno utilizará las técnicas de modelado geométrico, modelado jerárquico y texturizado para construir los elementos con base a primitivas.
 
