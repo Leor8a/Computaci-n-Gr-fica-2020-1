@@ -19,6 +19,7 @@ Computacion_Grafica_2020-1
 │  
 ├── Teoría
 │   ├── Miniprog
+│   ├── Images
 │   ├── #########
 │   ├── Mac
 │   │   ├── #########
@@ -70,18 +71,28 @@ Referencia Visual de acto de piso:
 
 Ambos deberán contener su respectiva animación de funcionamiento (ciclo del acto). Lo demás podrá ser generado como mejor lo consideren. Todo el circo deberá estar correctamente texturizado.
 
+c) Deberá contener dos modos de visualización.
 
-c)
+- Modo de día: Se deberán visualizar los modelos correctamente texturizados sin iluminación.
+
+- Modo de noche: Se deberán visualizar los modelos con iluminación y materiales adecuadamente al ambiente nocturno.
+
+d) Se generarán **dos** opciones para el recorrido, uno para hacerlo de manera **libre** y otro con **recorrido preestablecido**.
+
+e) Deberá contener mínimo 2 animaciones adicionales a las de los 2 actos diferentes, éstas animaciones deberán ser complejas en el escenario para que sea dinámico.
+
+f) El proyecto deberá ser entregado en una memoria entrada USB, donde se colocará el proeycto de visual studio, al menos 3 videos diferntes del proyecto funcionando y un maual de usuario. El manual de usuario deberá estar en formato .pdf y debe contener capturas de pantalla que ejemplifiquen cada elemento que describen en el manual y al final capturas de pantalla del proyecto. 
+
+**Además de la memoria el proyecto deberá estar en un repositorio exclusivo donde se evaluará cada avance que se vaya realizando en él. **
 
 
-
-X) Incorporará una biblioteca de audio para agregar música de fondo, por lo que el alumno deberá investigar una biblioteca compatible con OpenGL y GLUT. **(La herramienta que se utilizará será irrKlang para la carga de audio en el proyecto.)**
-
-
-X) Junto con los archivos de código, modelos, texturas y de audio, que el alumno utilizó para crear el escenario, entregará un manual de uso de la aplicación.
+g) Incorporará una biblioteca de audio para agregar música de fondo, por lo que el alumno deberá investigar una biblioteca compatible con OpenGL y GLUT. **(La herramienta que se utilizará será irrKlang para la carga de audio en el proyecto.)**
 
 
-El alumno puede agregar elementos para formar un escenario más grande y complejo. Se otorgarán puntos extra dependiendo de la originalidad de los elementos.
+h) Junto con los archivos de código, modelos, texturas y de audio, que el alumno utilizó para crear el escenario, entregará un manual de uso de la aplicación.
+
+
+Éstos son los elementos **mínimos** que debe haber en el escenario, no significa que sean los únicos, cada equipo deberá ambientar el escenario lo mejor posible, se evaluará además la creatividad y originalidad.
 
  Participantes:
 -
