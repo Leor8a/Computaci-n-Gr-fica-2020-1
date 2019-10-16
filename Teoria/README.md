@@ -40,24 +40,45 @@ El alumno, presentará como proyecto final, un escenario tridimensional, el cual
 
 1) Un **circo**:
 
-a) Se deberá realizar un recorrido virtual de un circo donde se incluirán elementos generados por cada alumno en específico. Además de una ambientación tridimensional para simular lo mejor posible el ambiente virtual.
+a) Se deberá realizar un recorrido virtual de un circo donde se incluirán elementos generados por cada alumno en específico. Además de una ambientación tridimensional para simular lo mejor posible el ambiente virtual. A continuación se muestran algunas imágenes de referencia:
+
+![Circus](Images/circus.png)
+![Circus One](Images/circus2.png)
+![Circus Two](Images/circus3.png)
+![Circus Three](Images/circus4.png)
+![Circus Four](Images/circus5.png)
 
 Para todos los elementos, el alumno utilizará las técnicas de modelado geométrico, modelado jerárquico y texturizado para construir los elementos con base a primitivas.
 
-(Se deberá realizar el ambiente virtual lo más completo posible tanto al interior como al exterior, colocando diversos elementos como: Carpa, gradas, personas, actos, ambientación, etc.)
+-- Se deberá realizar el ambiente virtual lo más completo posible tanto al interior como al exterior, colocando diversos elementos como: Carpa, gradas, personas, actos, ambientación, etc.
 
  Especificaciones:
 -
 
-b) El alumno agregará dos modos de vista en el programa, Un modo de noche y un modo de día; en cada uno de ellos la iluminación variará y sobretodo los cielos también cambiarán.
+b) Se deberán colocar mínimo **2 actos** distintos al interior del circo, deberá estar correctamente modelado, texturizado y animado. Estos actos deberán ser de tipo aéreo y de piso, buscando que sean lo más realista posible.
 
-c) El alumno agregará al menos tres (3) elementos con animaciones complejas diferentes. Al menos una de esas animaciones deberá ser por la técnica de KeyFrames. Queda a criterio del alumno los objetos a animar, pero deben tener relación con el escenario que se está construyendo.  
+Referencia Visual de acto de tipo aéreo:
+
+![Aereo](Images/Aereo.png)
+![Aereo Two](Images/Aereo2.png)
+![Aereo Three](Images/Aereo3.png)
+
+Referencia Visual de acto de piso:
+
+![Aereo](Images/Piso.png)
+![Aereo Two](Images/Piso2.png)
+
+Ambos deberán contener su respectiva animación de funcionamiento (ciclo del acto). Lo demás podrá ser generado como mejor lo consideren. Todo el circo deberá estar correctamente texturizado.
 
 
-d) Incorporará una biblioteca de audio para agregar música de fondo, por lo que el alumno deberá investigar una biblioteca compatible con OpenGL y GLUT. **(La herramienta que se utilizará será irrKlang para la carga de audio en el proyecto.)**
+c)
 
 
-e) Junto con los archivos de código, modelos, texturas y de audio, que el alumno utilizó para crear el escenario, entregará un manual de uso de la aplicación.
+
+X) Incorporará una biblioteca de audio para agregar música de fondo, por lo que el alumno deberá investigar una biblioteca compatible con OpenGL y GLUT. **(La herramienta que se utilizará será irrKlang para la carga de audio en el proyecto.)**
+
+
+X) Junto con los archivos de código, modelos, texturas y de audio, que el alumno utilizó para crear el escenario, entregará un manual de uso de la aplicación.
 
 
 El alumno puede agregar elementos para formar un escenario más grande y complejo. Se otorgarán puntos extra dependiendo de la originalidad de los elementos.
